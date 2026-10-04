@@ -772,8 +772,6 @@ https://github.com/cheraga/Disease-Prediction-from-Medical-Data
 
 Master's Student, Networks and Telecommunications Engineering
 
-University of Badji Mokhtar Annaba, Algeria
-
 ---
 
 # License
