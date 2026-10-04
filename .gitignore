@@ -20,8 +20,6 @@ env/
 Thumbs.db
 
 # Model files
-models/*.joblib
-models/*.pkl
 
 # Processed data
 data/processed/*
@@ -30,8 +28,7 @@ data/processed/*
 data/raw/*
 
 # Generated reports
-reports/figures/*.png
-reports/*.txt
 
 # Secrets
 .env
+!data/raw/heart.csv
